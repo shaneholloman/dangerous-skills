@@ -4,3 +4,4 @@ __pycache__/
 benchmark/results*/
 .DS_Store
 .warden/
+.pwned
